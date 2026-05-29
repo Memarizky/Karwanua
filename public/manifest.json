@@ -1,0 +1,13 @@
+{
+  "name": "Karwanua - Tebus Karbon",
+  "short_name": "Karwanua",
+  "description": "Platform untuk menghitung jejak karbon pribadi dan menebusnya melalui aksi nyata seperti menanam pohon dan berdonasi.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3AA17E",
+  "orientation": "portrait-primary",
+  "categories": ["lifestyle", "education", "utilities"],
+  "lang": "id",
+  "dir": "ltr"
+}
